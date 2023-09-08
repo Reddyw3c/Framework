@@ -1,0 +1,118 @@
+2023-09-06 15:03:40,931 INFO  [Log] Application opened 
+2023-09-06 15:03:42,546 INFO  [Log] Login Completed 
+2023-09-06 15:03:42,624 INFO  [Log] Entered to frame 
+2023-09-06 15:03:48,978 INFO  [Log] Add emp details 
+2023-09-06 15:05:03,295 INFO  [Log] Application opened 
+2023-09-06 15:05:03,921 INFO  [Log] Login Completed 
+2023-09-06 15:05:04,818 INFO  [Log] Entered to frame 
+2023-09-06 15:05:12,007 INFO  [Log] Add emp details 
+2023-09-06 15:07:25,970 INFO  [Log] Application opened 
+2023-09-06 15:07:27,491 INFO  [Log] Login Completed 
+2023-09-06 15:07:27,588 INFO  [Log] Entered to frame 
+2023-09-06 15:07:35,514 INFO  [Log] Add emp details 
+2023-09-06 15:08:28,986 INFO  [Log] Application opened 
+2023-09-06 15:08:35,858 INFO  [Log] Login Completed 
+2023-09-06 15:08:35,961 INFO  [Log] Entered to frame 
+2023-09-06 15:08:49,479 INFO  [Log] Add emp details 
+2023-09-06 15:08:49,489 INFO  [Log] Exit the frame 
+2023-09-06 15:08:49,513 INFO  [Log] Logout Completed 
+2023-09-06 15:23:26,053 INFO  [Log] Application opened 
+2023-09-06 15:23:28,370 INFO  [Log] Login Completed 
+2023-09-06 15:23:28,427 INFO  [Log] Entered to frame 
+2023-09-06 15:23:36,868 INFO  [Log] Add emp details 
+2023-09-06 15:23:36,878 INFO  [Log] Exit the frame 
+2023-09-06 15:23:36,900 INFO  [Log] Logout Completed 
+2023-09-06 15:23:41,043 INFO  [Log] Application opened 
+2023-09-06 15:23:45,422 INFO  [Log] Login Completed 
+2023-09-06 15:23:45,476 INFO  [Log] Entered to frame 
+2023-09-06 15:24:04,940 INFO  [Log] Add emp details 
+2023-09-06 15:24:31,562 INFO  [Log] Edit emply information completed 
+2023-09-06 15:26:22,223 INFO  [Log] Application opened 
+2023-09-06 15:26:24,525 INFO  [Log] Login Completed 
+2023-09-06 15:26:24,576 INFO  [Log] Entered to frame 
+2023-09-06 15:26:36,812 INFO  [Log] Add emp details 
+2023-09-06 15:26:36,819 INFO  [Log] Exit the frame 
+2023-09-06 15:26:36,834 INFO  [Log] Logout Completed 
+2023-09-06 15:26:43,623 INFO  [Log] Application opened 
+2023-09-06 15:27:06,620 INFO  [Log] Login Completed 
+2023-09-06 15:27:06,668 INFO  [Log] Entered to frame 
+2023-09-06 15:27:15,572 INFO  [Log] Add emp details 
+2023-09-06 15:27:33,834 INFO  [Log] Edit emply information completed 
+2023-09-06 15:27:36,723 INFO  [Log] Deleted successfully 
+2023-09-06 15:27:36,734 INFO  [Log] Exit the frame 
+2023-09-06 15:27:36,757 INFO  [Log] Logout Completed 
+2023-09-06 15:27:36,856 INFO  [Log] Close Application 
+2023-09-06 15:48:40,919 INFO  [Log] Application opened 
+2023-09-06 15:48:43,423 INFO  [Log] Login Completed 
+2023-09-06 15:48:43,470 INFO  [Log] Entered to frame 
+2023-09-06 15:48:51,551 INFO  [Log] Add emp details 
+2023-09-06 15:48:51,558 INFO  [Log] Exit the frame 
+2023-09-06 15:48:51,578 INFO  [Log] Logout Completed 
+2023-09-06 15:48:55,767 INFO  [Log] Application opened 
+2023-09-06 15:48:57,707 INFO  [Log] Login Completed 
+2023-09-06 15:48:57,764 INFO  [Log] Entered to frame 
+2023-09-06 15:49:07,762 INFO  [Log] Add emp details 
+2023-09-06 15:49:23,249 INFO  [Log] Edit emply information completed 
+2023-09-06 15:50:03,489 INFO  [Log] Application opened 
+2023-09-06 15:50:07,790 INFO  [Log] Login Completed 
+2023-09-06 15:50:07,848 INFO  [Log] Entered to frame 
+2023-09-06 15:50:21,987 INFO  [Log] Add emp details 
+2023-09-06 15:50:21,998 INFO  [Log] Exit the frame 
+2023-09-06 15:50:22,025 INFO  [Log] Logout Completed 
+2023-09-06 15:50:27,033 INFO  [Log] Application opened 
+2023-09-06 15:50:33,621 INFO  [Log] Login Completed 
+2023-09-06 15:50:33,664 INFO  [Log] Entered to frame 
+2023-09-06 15:50:41,726 INFO  [Log] Add emp details 
+2023-09-06 15:50:56,994 INFO  [Log] Edit emply information completed 
+2023-09-06 15:50:58,760 INFO  [Log] Deleted successfully 
+2023-09-06 15:50:58,767 INFO  [Log] Exit the frame 
+2023-09-06 15:50:58,800 INFO  [Log] Logout Completed 
+2023-09-06 15:50:58,976 INFO  [Log] Close Application 
+2023-09-06 18:50:27,517 INFO  [Log] Application opened 
+2023-09-06 18:50:28,578 INFO  [Log] Login Completed 
+2023-09-06 18:50:28,634 INFO  [Log] Entered to frame 
+2023-09-06 18:50:34,775 INFO  [Log] Add emp details 
+2023-09-06 18:50:34,782 INFO  [Log] Exit the frame 
+2023-09-06 18:50:34,799 INFO  [Log] Logout Completed 
+2023-09-06 18:51:05,283 INFO  [Log] Application opened 
+2023-09-06 18:51:06,322 INFO  [Log] Login Completed 
+2023-09-06 18:51:06,372 INFO  [Log] Entered to frame 
+2023-09-06 18:51:12,366 INFO  [Log] Add emp details 
+2023-09-06 18:51:12,372 INFO  [Log] Exit the frame 
+2023-09-06 18:51:12,389 INFO  [Log] Logout Completed 
+2023-09-06 18:51:14,359 INFO  [Log] Application opened 
+2023-09-06 18:51:15,485 INFO  [Log] Login Completed 
+2023-09-06 18:51:15,524 INFO  [Log] Entered to frame 
+2023-09-06 18:51:21,620 INFO  [Log] Add emp details 
+2023-09-06 18:51:34,002 INFO  [Log] Edit emply information completed 
+2023-09-06 19:02:20,633 INFO  [Log] Application opened 
+2023-09-06 19:02:21,680 INFO  [Log] Login Completed 
+2023-09-06 19:02:21,729 INFO  [Log] Entered to frame 
+2023-09-06 19:02:27,978 INFO  [Log] Add emp details 
+2023-09-06 19:02:27,989 INFO  [Log] Exit the frame 
+2023-09-06 19:02:28,006 INFO  [Log] Logout Completed 
+2023-09-06 19:02:29,964 INFO  [Log] Application opened 
+2023-09-06 19:02:31,233 INFO  [Log] Login Completed 
+2023-09-06 19:02:31,271 INFO  [Log] Entered to frame 
+2023-09-06 19:02:37,460 INFO  [Log] Add emp details 
+2023-09-06 19:02:50,129 INFO  [Log] Edit emply information completed 
+2023-09-07 14:02:45,924 INFO  [Log] Application opened 
+2023-09-07 14:02:47,260 INFO  [Log] Login Completed 
+2023-09-07 14:02:47,330 INFO  [Log] Entered to frame 
+2023-09-07 14:02:53,621 INFO  [Log] Add emp details 
+2023-09-07 14:02:53,626 INFO  [Log] Exit the frame 
+2023-09-07 14:02:53,642 INFO  [Log] Logout Completed 
+2023-09-07 14:02:56,103 INFO  [Log] Application opened 
+2023-09-07 14:02:57,465 INFO  [Log] Login Completed 
+2023-09-07 14:02:57,519 INFO  [Log] Entered to frame 
+2023-09-07 14:03:03,711 INFO  [Log] Add emp details 
+2023-09-07 14:03:16,188 INFO  [Log] Edit emply information completed 
+2023-09-08 10:31:08,158 INFO  [Log] Application opened 
+2023-09-08 10:31:09,355 INFO  [Log] Login Completed 
+2023-09-08 10:31:09,425 INFO  [Log] Entered to frame 
+2023-09-08 10:31:15,721 INFO  [Log] Add emp details 
+2023-09-08 10:31:15,730 INFO  [Log] Exit the frame 
+2023-09-08 10:31:15,763 INFO  [Log] Logout Completed 
+2023-09-08 10:31:18,107 INFO  [Log] Application opened 
+2023-09-08 10:31:19,311 INFO  [Log] Login Completed 
+2023-09-08 10:31:19,389 INFO  [Log] Entered to frame 
